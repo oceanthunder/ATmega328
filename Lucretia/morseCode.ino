@@ -9,7 +9,7 @@ void setup() {
 }
 
 void loop() {
-  delay(wordGap*20);
+  delay(wordGap);
   sendMorse("xkcd1362");  
   delay(wordGap);
 }

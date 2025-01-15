@@ -42,6 +42,7 @@ Lucretia Pickering Walker was the first wife of Samuel Morse, the inventor of Mo
 In 1825, while Morse was away on a painting commission in Washington, D.C., he received a letter informing him that Lucretia had fallen gravely ill. By the time he returned home to New Haven, Connecticut, she had already passed away. Devastated by the delay in receiving the news and being unable to see her before her death, Morse was inspired to explore faster means of long-distance communication. This tragedy is believed to have influenced his later work on the telegraph and Morse code, which revolutionized 19th-century communication.
 
 ![Lucretia Pickering Walker Morse](lucretia.jpg)
+
 *"WHEN THE EAR HEARD HER IT BLESSED HER; WHEN THE EYE SAW HER IT GAVE WITNESS TO HER."*
 
 ---

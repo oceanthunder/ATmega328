@@ -43,7 +43,7 @@ In 1825, while Morse was away on a painting commission in Washington, D.C., he r
 
 ![Lucretia Pickering Walker Morse](lucretia.jpg)
 
-*"WHEN THE EAR HEARD HER IT BLESSED HER; WHEN THE EYE SAW HER IT GAVE WITNESS TO HER."*
+*"When the ear heard her it blessed her; when the eye saw her it gave witness to her."*
 
 ---
 

@@ -20,6 +20,11 @@ Here’s a demo of the sensor in action:
 
 ---
 
+## Circuit Diagram
+[Circuit](circuit.png)
+
+---
+
 ## Tinkering  
 
 - **Change the distance threshold**: Modify the `loop` function’s `if` condition to adjust the detection distance.  

@@ -1,6 +1,7 @@
 # ATmega328
 
-A collection of Arduino projects.
+A collection of my hobby projects. 
+Doing it just for fun and vibes!
 
 ## Projects
 

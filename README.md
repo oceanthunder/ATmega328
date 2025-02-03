@@ -1,7 +1,5 @@
 # ATmega328
 
-A collection of my hobby projects.
-
 I seriously needed a new hobby, and guess what? I had an old Arduino lying around.
 
 ## Projects

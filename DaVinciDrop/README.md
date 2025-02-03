@@ -21,7 +21,7 @@ Here’s a demo of the sensor in action:
 ---
 
 ## Circuit Diagram
-[Circuit](circuit.png)
+![Circuit](circuit.png)
 
 ---
 

@@ -1,13 +1,13 @@
 # Da Vinci Drop
 
-Da Vinci Drop is a 'closeness detector' that makes the buzzer beep when it's at or less than a certain distance (set to 15 cm).  
+Da Vinci Drop is a 'closeness buzzer' that makes the buzzer beep when it's at or less than a certain distance (set to 15 cm).  
 It’s useful as an alarm for detecting and preventing tank overflow.
 
 ---
 
 ### Demo  
 Here’s a demo of the sensor in action:  
-![Arduino water detector](demo.mp4)
+[![Arduino Closeness Buzzer](https://img.youtube.com/vi/voAaHHjVNMk/0.jpg)](https://youtu.be/voAaHHjVNMk)
 
 ---
 

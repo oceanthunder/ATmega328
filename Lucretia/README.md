@@ -5,8 +5,8 @@ Lucretia is a thing that does some thing on an arduino that makes the LEDs blink
 ---
 
 ### Demo
-Here’s a demo of a text being converted into Morse code (may take a while to load):  
-![Arduino blinking Morse code](dontwanttonameitonwhatitis.gif)
+Here’s a demo of a text being converted into Morse code:  
+[![Arduino blinking Morse code](https://img.youtube.com/vi/50Wt0zSI768/0.jpg)](https://youtu.be/50Wt0zSI768)
 
 ---
 
